@@ -1,1 +1,2 @@
 Github on platvorm mõeldud inimestele, kes saaksid jagada faile või koode. See on suurepärane, kui on vaja kirjutada koodi mitme inimesega samal ajal.
+Edaspidi saan kasutada githubi, kui mul on soov  kirjutada mingi kood or võ teha kooli tööd
