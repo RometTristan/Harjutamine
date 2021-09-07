@@ -1,2 +1,3 @@
 Github on platvorm mõeldud inimestele, kes saaksid jagada faile või koode. See on suurepärane, kui on vaja kirjutada koodi mitme inimesega samal ajal.
 Edaspidi saan kasutada githubi, kui mul on soov  kirjutada mingi kood or võ teha kooli tööd
+Development of the GitHub.com platform began on October 19, 2007. The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been made available for a few months prior as a beta release.
